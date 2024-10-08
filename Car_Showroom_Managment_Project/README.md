@@ -1,7 +1,6 @@
 
 # Car Showroom Management System
 
-
 This project is a car showroom management system implemented in Java using object-oriented programming principles. The system allows users to manage showrooms, employees, and cars associated with the showrooms.
 ## Description
 
